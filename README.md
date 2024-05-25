@@ -1,5 +1,1 @@
-# Learn_Github
-
-
-
-Men futbolga vashshe qiziqmay qoldim
+Hech qanday muammo yo'q. Alhamdulillah
