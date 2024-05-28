@@ -1,1 +1,1 @@
-Hech qanday muammo yo'q. Alhamdulillah
+`dotnet_practice` nomli fayl shunchaki fayllarni upload qilish uchun example sifatida yuklandi!
